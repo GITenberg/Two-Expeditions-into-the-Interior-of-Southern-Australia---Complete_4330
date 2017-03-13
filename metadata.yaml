@@ -1,8 +1,11 @@
 _repo: Two-Expeditions-into-the-Interior-of-Southern-Australia---Complete_4330
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Two Expeditions into the Interior of Southern Australia, During\
   \ the Years 1828, 1829, 1830, and 1831\r\nWith Observations on the Soil, Climate,\
   \ and General Resources of the Colony of New South Wales"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sturt, Charles
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1448
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sturt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4330#Two-Expeditions-into-the-Interior-of-Southern-Australia---Complete
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-08-30'
 gutenberg_type: Text
